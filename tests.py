@@ -13,9 +13,7 @@ import io
 
 from stream_exercise import StreamProcessor
 
-
 failures = 0
-
 
 value = "234761640930110349378289194"
 expected = 5
